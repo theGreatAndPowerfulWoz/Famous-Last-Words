@@ -1,0 +1,32 @@
+p {
+-moz-opacity: 0; 
+filter:alpha(opacity=0); 
+opacity: 0;
+text-align: center;
+margin: 0;
+padding: 0;
+font-family: 'Shadows Into Light', cursive;
+font-size: 45px;	
+}
+.one{
+	padding: 0 150px;
+}
+.cont {
+	font-size: 90px;	
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:active {
+    color: black;
+}
